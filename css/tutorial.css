@@ -1,0 +1,21 @@
+/* Styling for div container */
+.container {
+    width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #333333;
+    background-color: #F0F0F0;
+}
+
+/* Styling for paragraphs tags */
+p {
+    color: brown;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 30px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #CCCCCC;
+    background-color: white;
+}
